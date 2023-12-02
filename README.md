@@ -11,6 +11,19 @@ npm : https://www.npmjs.com/package/figlet?activeTab=readme
 
 ![image](https://github.com/BroLetsCodeIt/Figlet_Project/assets/113767803/ac8d3d99-6db1-4199-97d6-8de5563d251d)
 
+
+## How to Clone
+
+```sh
+git clone 
+```
+```sh
+npm install
+```
+```sh
+npm run dev
+```
+
 ✅ If you like it , please give it a star 🌟
 
 Thank you !
