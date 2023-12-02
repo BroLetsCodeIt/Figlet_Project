@@ -15,7 +15,7 @@ npm : https://www.npmjs.com/package/figlet?activeTab=readme
 ## How to Clone
 
 ```sh
-git clone 
+git clone https://github.com/BroLetsCodeIt/Figlet_Project.git
 ```
 ```sh
 npm install
